@@ -17,10 +17,10 @@ Currently exploring **Backend Development, Full-Stack Engineering, and Artificia
 
 - 🎓 Software Engineering student at COMSATS University Islamabad, Lahore Campus.
 - 💻 Interested in Backend Development, Full-Stack Engineering, and Software Architecture.
-- 🌱 Currently learning Java, Python, JavaScript, React, and FastAPI.
+- 🌱 Learning Java, Python, JavaScript, React, and FastAPI.
 - ⚙️ Exploring REST APIs, database management, OOP, and software development principles.
 - 🤖 Interested in Artificial Intelligence, RAG systems, and AI-powered applications.
-- 🚀 Building practical projects to strengthen my development skills.
+- 🚀 Learning by building projects and experimenting with new technologies.
 - 📚 Focused on understanding concepts rather than just writing code.
 
 ---
@@ -68,24 +68,29 @@ Currently exploring **Backend Development, Full-Stack Engineering, and Artificia
 
 ---
 
-### 🚀 Featured Projects
+### 🚧 Currently Working On & Exploring
 
-| Project | Description | Technologies |
-|---|---|---|
-| **StockPilot** | Inventory and Order Management System | React, Python, FastAPI, SQLAlchemy, PostgreSQL |
-| **Dustoor AI** | Multi-turn legal AI assistant focused on reliable answers and citation verification in Pakistani law | Python, AI, RAG, PostgreSQL |
-| **Python Practice** | Programming fundamentals, OOP, and hands-on exercises | Python |
-| **Java Projects** | Desktop application development and programming exercises | Java, JavaFX, JDBC |
+- **React & Frontend Development** — Strengthening my understanding of components, props, state, hooks, and layouts.
+- **StockPilot** — Learning to build an Inventory and Order Management System using React, FastAPI, SQLAlchemy, and PostgreSQL.
+- **Python & Backend Development** — Improving my programming fundamentals, OOP, API development, and database integration.
+- **Dustoor AI** — Exploring AI-powered legal research, multi-turn RAG, and citation verification for Pakistani law.
 
-*More projects and experiments coming soon!*
+*These are ongoing learning and development efforts.*
 
 ---
 
-### 📊 GitHub Statistics
+### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaKhan83&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaKhan83&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <a href="https://github.com/HamzaKhan83">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaKhan83&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HamzaKhan83?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My-Repositories-181717?style=for-the-badge&logo=github" alt="View repositories"/>
+  </a>
 </p>
 
 ---
